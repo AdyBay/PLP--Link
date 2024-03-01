@@ -9,6 +9,11 @@ body {
     margin: auto;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 section {
     text-align: center;
     margin-bottom: 30px;
